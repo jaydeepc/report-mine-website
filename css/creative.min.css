@@ -152,6 +152,7 @@ header {
   background-image: url('../img/header3.jpg');
   text-align: center;
   color: white;
+  z-index: -1;
 }
 header .header-content {
   position: relative;
